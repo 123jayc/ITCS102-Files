@@ -32,12 +32,3 @@ v15 = input(" Please input something----> ")
 result += v15
 
 print("Here is the concatenated result: ", result)
-
-
-
-
-
-NESTED CONDITIONS
-*Conditions within
-
-	Another condition example
