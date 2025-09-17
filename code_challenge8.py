@@ -10,6 +10,6 @@
 
 print('MULTIPLICATION TABLE MAKER')
 mul = int(input('Enter a number:'))
-
+print('Multiplacation table for', mul, ':')
 for i in range(1, 11):
     print(mul, 'x', i, '=', mul * i)
